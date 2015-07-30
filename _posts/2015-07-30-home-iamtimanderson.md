@@ -12,7 +12,7 @@ app_links: []
 isBasedOnUrl: 'http://iamtimanderson.com/'
 title: Home - iamtimanderson
 datePublished: '2015-07-30T20:59:50.975Z'
-dateModified: '2015-07-30T20:59:50.975Z'
+dateModified: '2015-07-30T21:00:22.941Z'
 sourcePath: _posts/2015-07-30-home-iamtimanderson.md
 published: true
 _context: 'http://schema.org'
