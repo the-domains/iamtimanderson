@@ -9,7 +9,7 @@ related: []
 app_links: []
 title: Home - iamtimanderson
 datePublished: '2015-07-30T20:59:50.975Z'
-dateModified: '2015-07-30T21:29:34.735Z'
+dateModified: '2015-07-30T21:31:00.202Z'
 sourcePath: _posts/2015-07-30-home-iamtimanderson.md
 published: true
 tags:
