@@ -3,15 +3,17 @@ isBasedOnUrl: 'http://iamtimanderson.com/'
 inLanguage: null
 starred: false
 keywords: []
-description: Chicago based cinematographer.
+description: 'Director | DP | Editor'
 author: []
 related: []
 app_links: []
 title: Home - iamtimanderson
 datePublished: '2015-07-30T20:59:50.975Z'
-dateModified: '2015-07-30T21:25:15.581Z'
+dateModified: '2015-07-30T21:29:34.735Z'
 sourcePath: _posts/2015-07-30-home-iamtimanderson.md
 published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: Iamtimanderson
