@@ -25,7 +25,7 @@ publisher:
   domain: hypebeast.com
   url: 'http://hypebeast.com'
   favicon: 'http://hypebeast.com/favicon.ico'
-dateModified: '2015-07-30T22:26:24.923Z'
+dateModified: '2015-07-30T23:14:26.580Z'
 sourcePath: _posts/2015-07-30-introducing-the-converse-all-star-chuck-taylor-ii.md
 published: true
 _type: MediaObject
